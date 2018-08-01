@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -42,11 +43,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 // кнопка ОК
                 Log.d(TAG, "Нажата кнопка ОК");
                 tvOut.setText("Нажата кнопка ОК");
+                Toast.makeText(this, "Нажата кнопка OK",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btnCancel:
                 // кнопка Cancel
                 Log.d(TAG, "Нажата кнопка Cancel");
                 tvOut.setText("Нажата кнопка Cancel");
+                Toast.makeText(this, "Нажата кнопка Cancel",Toast.LENGTH_SHORT).show();
                 break;
         }
     }
