@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/p0102activitylistener" />
             <option value="$PROJECT_DIR$/p0121logandmess" />
             <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0191simplecalculator" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
