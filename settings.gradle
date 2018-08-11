@@ -1,1 +1,1 @@
-include ':app', ':p0031firstproject', ':p0041basicviews', ':p0061layouts', ':p0091onclickbuttons', ':p0101listener', ':p0102activitylistener', ':p0121logandmess', ':p0171dynamiclayout2', ':p0191simplecalculator', ':p0211twoactivity'
+include ':app', ':p0031firstproject', ':p0041basicviews', ':p0061layouts', ':p0091onclickbuttons', ':p0101listener', ':p0102activitylistener', ':p0121logandmess', ':p0171dynamiclayout2', ':p0191simplecalculator', ':p0211twoactivity', ':p0231oneactivitystate'
