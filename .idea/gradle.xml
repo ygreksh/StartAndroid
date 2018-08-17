@@ -29,6 +29,7 @@
             <option value="$PROJECT_DIR$/p0331sharedpreferences" />
             <option value="$PROJECT_DIR$/p0341simplesqlite" />
             <option value="$PROJECT_DIR$/p0342simplesqlite" />
+            <option value="$PROJECT_DIR$/p0401layoutinflater" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
