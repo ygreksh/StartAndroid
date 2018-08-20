@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
             <option value="$PROJECT_DIR$/p0421simplelist" />
             <option value="$PROJECT_DIR$/p0581timepickerdialog" />
+            <option value="$PROJECT_DIR$/p1411canvasview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
