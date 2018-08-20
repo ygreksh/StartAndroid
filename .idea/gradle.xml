@@ -34,6 +34,7 @@
             <option value="$PROJECT_DIR$/p0421simplelist" />
             <option value="$PROJECT_DIR$/p0581timepickerdialog" />
             <option value="$PROJECT_DIR$/p1411canvasview" />
+            <option value="$PROJECT_DIR$/p1412canvasview2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
